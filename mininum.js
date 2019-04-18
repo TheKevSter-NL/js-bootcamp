@@ -2,7 +2,7 @@
 console.log("Exercise 4: mininum")
 function minimumHw4(number, number2) {
 
-  var hw4 = Math.min(number, number2); //starting with 1 #
+  var hw4 = Math.min(number, number2);
   console.log(hw4);
 }
 
