@@ -1,4 +1,4 @@
-console.log("Exercise 5: Recursion")
+
 function checkHw5(nummer){
 
   if (nummer % 2 === 0){
